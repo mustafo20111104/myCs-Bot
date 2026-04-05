@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-TOKEN = "8640817008:AAFVaBoZ4DerN65IkVfRmasvDh7osjnxCMc"
+TOKEN = "8640817008:AAHec2gnOV6B136dVg-koYcSETY8ChnkvkY"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
